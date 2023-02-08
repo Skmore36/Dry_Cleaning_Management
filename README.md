@@ -1,1 +1,2 @@
-# Dry_Cleaning_Management
+# Dry-Cleaning
+Dry Cleaning Project
